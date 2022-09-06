@@ -22,7 +22,6 @@ import {
 	SiAmazonaws,
 } from 'react-icons/si';
 import { FaNpm, FaSass, FaYarn } from 'react-icons/fa';
-import Image from 'next/image';
 
 export default function AboutMe() {
 	return (
