@@ -63,11 +63,11 @@ export default function Header() {
 						<div className=' flex space-x-3 items-center'>
 							<Link href='#'>
 								<a>
-									{theme === 'light' ? (
+									{theme === 'dark' ? (
 										// eslint-disable-next-line @next/next/no-img-element
 										<img
 											src={
-												'https://ik.imagekit.io/rjkashyap05/portfolio/logo-light.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662305259583'
+												'https://ik.imagekit.io/rjkashyap05/portfolio/logo-dark.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662305259583'
 											}
 											className='w-[100px]  inline'
 											alt='Logo'
@@ -76,7 +76,7 @@ export default function Header() {
 										// eslint-disable-next-line @next/next/no-img-element
 										<img
 											src={
-												'https://ik.imagekit.io/rjkashyap05/portfolio/logo-dark.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662305285290'
+												'https://ik.imagekit.io/rjkashyap05/portfolio/logo-light.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662305285290'
 											}
 											className='w-[100px]  inline'
 											alt='Logo'
