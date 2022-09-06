@@ -8,13 +8,13 @@ const Toggle = () => {
 	return (
 		<div className='transition duration-500 ease-in-out flex items-center mb-2'>
 			{theme === 'dark' ? (
-				<FaSun
+				<FaMoon
 					onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
 					className='text-dark dark:text-white dark:hover:text-hoverDark hover:text-hoverLight cursor-pointer ease-in duration-300'
 					size={25}
 				/>
 			) : (
-				<FaMoon
+				<FaSun
 					onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
 					className='text-dark dark:text-white dark:hover:text-hoverDark hover:text-hoverLight cursor-pointer ease-in duration-300'
 					size={25}
