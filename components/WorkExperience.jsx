@@ -81,7 +81,7 @@ export default function WorkExperience() {
 							</p>
 							<ul className='my-3 flex flex-col gap-x-6'>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Learn Basic Website development with Html, CSS, JavaScript &
 										PHP.
@@ -89,17 +89,17 @@ export default function WorkExperience() {
 								</li>
 								<li className='flex gap-4 my-2'>
 									{/* <p>Projects</p> */}
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Learn Basic HTML, CSS, JavaScript, MySQL And PHP,
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>Improve Problem Solving Technics.</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>Learn CodeIgniter PHP Framework</p>
 								</li>
 							</ul>
@@ -121,7 +121,7 @@ export default function WorkExperience() {
 							<ul className='my-3 flex flex-col gap-x-6'>
 								<li className='flex gap-4 my-2'>
 									{/* <p>Skills</p> */}
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Work On Development and managing Mobile Recharge, Money
 										Transfer, AEPS, Bill Payment, Pan Card Application Services.
@@ -129,19 +129,19 @@ export default function WorkExperience() {
 								</li>
 								<li className='flex gap-4 my-2'>
 									{/* <p>Projects</p> */}
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Working on large User Database management.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Work on Front-End & Back-End Development.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Integrate Multiple APIs for Several Service.
 									</p>
@@ -165,7 +165,7 @@ export default function WorkExperience() {
 							<ul className='my-3 flex flex-col gap-x-6'>
 								<li className='flex gap-4 my-2'>
 									{/* <p>Skills</p> */}
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Next.js · API Development · Amazon EC2 · Amazon S3 · Amazon
 										CloudFront · Nginx · Apache · React Native · Node.js ·
@@ -174,48 +174,48 @@ export default function WorkExperience() {
 								</li>
 								<li className='flex gap-4 my-2'>
 									{/* <p>Projects</p> */}
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Working in PHP, MySql,Javascript, React (NextJs), and AWS
 										EC2 Server for Production.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Build OTT Android/IOS App for Sundrani Video world with AWS-
 										S3, NodeJs, React-Native.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Built NextJs Application for E-commerce & Blog Application
 										for Stemnovate Limited LLP.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Built Laravel Application for LMS Application for Etude
 										Guru.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Built React Native Application for Quiz Application for
 										Quiz2Shine.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Build Android App for Location Tracking and Work management.
 									</p>
 								</li>
 								<li className='flex gap-4 my-2'>
-									<FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' />
+									<span><FaArrowRight className='dark:text-hoverDark text-hoverLight mt-2' /></span>
 									<p className='text-base'>
 										Build Fully functional E-surveillance App For security
 										agencies With React Native.

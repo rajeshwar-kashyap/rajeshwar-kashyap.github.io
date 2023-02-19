@@ -43,12 +43,12 @@ export default function AboutMe() {
 					<p>
 						Currently Working in{' '}
 						<a
-							href='http://sarmicrosystems.in/'
+							href='https://www.fleksa.com/'
 							target='_blank'
 							rel='noopener noreferrer'
 						>
 							<b className='dark:text-hoverDark text-hoverLight'>
-								fleksa Software Solutions
+								Fleksa Innovations
 							</b>
 						</a>{' '}
 					</p>
