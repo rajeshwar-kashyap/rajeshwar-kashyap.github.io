@@ -48,7 +48,7 @@ export default function AboutMe() {
 							rel='noopener noreferrer'
 						>
 							<b className='dark:text-hoverDark text-hoverLight'>
-								SAR Software Solutions
+								fleksa Software Solutions
 							</b>
 						</a>{' '}
 					</p>
