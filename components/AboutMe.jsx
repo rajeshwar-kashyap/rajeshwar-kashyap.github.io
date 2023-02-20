@@ -34,14 +34,14 @@ export default function AboutMe() {
             creating things that live on the internet. My interest in web
             development started back in 2018 when I decided to try to make html
             pages for google blog post — after that i have take one web
-            development course for brushup my skills!{" "}
+            development course for brushup my skills!
           </p>
           <p>
             Start My First, IT job in service based company there I was learn
             most of things that i have currently.
           </p>
           <p>
-            Currently Working in{" "}
+            Currently Working in
             <a
               href="https://www.fleksa.com/"
               target="_blank"
