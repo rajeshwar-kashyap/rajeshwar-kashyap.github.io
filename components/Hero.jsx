@@ -4,7 +4,7 @@ import link from "../utils/social.json";
 
 export default function Hero() {
   return (
-    <div className="m-3 md:min-h-screen">
+    <div className="p-4">
       <h3 className="md:text-xl text-base">Hey my name is</h3>
       <h2 className="md:text-8xl text-4xl font-bold name-font">
         Rajeshwar Kashyap.
@@ -12,14 +12,13 @@ export default function Hero() {
       <h4 className="md:text-4xl text-2xl name-font font-bold">
         Full Stack Developer
       </h4>
-      <p className="md:text-xl text-xl">
-        Experienced Software Developer with a demonstrated history of working in
-        the Software development and web development. Skilled in PHP, HTML, CSS,
+      <p className="md:text-xl text-xl leading-8 text-justify">
+        Welcome to my digital universe, where I blend creativity with code to build exceptional web experiences. Explore my portfolio to see how I turn ideas into interactive realities. Let's connect and create something remarkable together. Skilled in PHP, HTML, CSS,
         JavaScript, NodeJs, ReactJs, NextJS, Laravel, CodeIgniter, React Native.
         Currently Working in{" "}
-        <a href="https://fleksa.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://hyphun.com/" target="_blank" rel="noopener noreferrer">
           <b className="dark:text-hoverDark text-hoverLight">
-            Fleksa Innovations
+            Hyphun Technology
           </b>
         </a>
       </p>

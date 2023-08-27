@@ -4,7 +4,7 @@ import { FaArrowRight } from 'react-icons/fa';
 export default function WorkExperience() {
 	const [activeStatus, setActiveStatus] = useState(2);
 	return (
-		<div className='md:min-h-screen mt-9'>
+		<div className='p-4 mt-9'>
 			<h3 className='title text-center md:text-7xl text-4xl'>
 				WORK EXPERIENCE
 			</h3>
