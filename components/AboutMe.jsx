@@ -30,7 +30,7 @@ export default function AboutMe() {
       <div className="flex flex-col sm:flex-row gap-3">
         <div className="md:text-xl text-base md:w-[70%] my-3">
           <p className="leading-8 text-justify">
-            Hello! <br /> I'm Rajeshwar Kashyap, and I have a passion for crafting digital experiences on the internet. My journey in web development began in 2018 when I decided to create HTML pages for Google blog posts. Since then, I've honed my skills through web development courses and gained valuable experience during my first IT job at a service-based company. Today, I'm proud to be working at <a
+            Hello! <br /> I&apos;m Rajeshwar Kashyap, and I have a passion for crafting digital experiences on the internet. My journey in web development began in 2018 when I decided to create HTML pages for Google blog posts. Since then, I&apos;ve honed my skills through web development courses and gained valuable experience during my first IT job at a service-based company. Today, I&apos;m proud to be working at <a
               href="https://hyphun.com/"
               target="_blank"
               rel="noopener noreferrer"
