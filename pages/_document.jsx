@@ -8,7 +8,7 @@ class MyDocument extends Document {
 				<Head>
 					<meta
 						name='description'
-						content='Rajeshwar Kashyap is a FullStack Developer who specializes in building (and occasionally designing) exceptional digital experiences.'
+						content='I have a passion for crafting digital experiences on the internet. My journey in web development began in 2018 when I decided to create HTML pages for Google blog posts. Since then, I've honed my skills through web development courses and gained valuable experience during my first IT job at a service-based company in India. I'm currently working as a Full Frontend Developer at a startup in India.'
 					/>
 					<link rel='icon' href='/favicon.png' />
 					<html lang='en' />
