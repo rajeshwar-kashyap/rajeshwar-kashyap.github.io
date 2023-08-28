@@ -13,7 +13,7 @@ export default function Hero() {
         Full Stack Developer
       </h4>
       <p className="md:text-xl text-xl leading-8 text-justify">
-        Welcome to my digital universe, where I blend creativity with code to build exceptional web experiences. Explore my portfolio to see how I turn ideas into interactive realities. Let's connect and create something remarkable together. Skilled in PHP, HTML, CSS,
+        Welcome to my digital universe, where I blend creativity with code to build exceptional web experiences. Explore my portfolio to see how I turn ideas into interactive realities. Let&apos;s connect and create something remarkable together. Skilled in PHP, HTML, CSS,
         JavaScript, NodeJs, ReactJs, NextJS, Laravel, CodeIgniter, React Native.
         Currently Working in{" "}
         <a href="https://hyphun.com/" target="_blank" rel="noopener noreferrer">
